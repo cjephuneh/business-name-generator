@@ -1,9 +1,7 @@
-import React from 'react'
-
-function App() {
+export default function App() {
   return (
-    <div className='bg-red-400 font-bold underline'>App.config.js</div>
+    <h1 className="bg-red-200">
+      Hello world!
+    </h1>
   )
 }
-
-export default App
